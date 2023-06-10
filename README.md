@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Apache Flink at work
+- 🌱 I’m currently learning Compilers!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahul-tumpala)
+
 <!--
 **rahultumpala/rahultumpala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
