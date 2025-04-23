@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently using Apache Flink at work.
-- 🌱 I’m also learning Compilers!
+- 🔭 I write micro services using Java at work
+- 🌱 I’m also interested in functional programming
 - 📖 Read my [Blog](https://rahultumpala.github.io)
 - 📫 My [LinkedIn](https://www.linkedin.com/in/rahul-tumpala)
